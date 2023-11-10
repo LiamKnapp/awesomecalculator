@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+LiamKnapp_awesomecalculator.egg-info/PKG-INFO
+LiamKnapp_awesomecalculator.egg-info/SOURCES.txt
+LiamKnapp_awesomecalculator.egg-info/dependency_links.txt
+LiamKnapp_awesomecalculator.egg-info/top_level.txt
+calculator/__init__.py
+calculator/core.py
+tests/__init__.py
+tests/testscalculatortests.py
